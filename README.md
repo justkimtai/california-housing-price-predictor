@@ -69,8 +69,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
-
 ## 🏃 Running the App
 
 ```bash
@@ -78,15 +76,11 @@ cd src
 streamlit run app.py
 ```
 
----
-
 ## 📈 Training the Model
 
 ```bash
 python3 src/model_training.py
 ```
-
----
 
 ## 📊 Exploratory Data Analysis
 
