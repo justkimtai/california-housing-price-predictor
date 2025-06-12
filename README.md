@@ -3,7 +3,13 @@
 
 This project is a machine learning web application built with **Streamlit** that predicts California median house values based on various housing features such as median income, location, and housing age. It uses the **California Housing Dataset** from `sklearn.datasets`.
 
+## 📸 Screenshot
+
 ![App Screenshot](images/screenshot.png)
+
+## 🚀 Live Demo
+
+👉 [Try the live app here](https://california-housing-price-predictor.streamlit.app/)
 
 ## 🚀 Features
 
